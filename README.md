@@ -1,6 +1,6 @@
-[![Build Status](https://dev.azure.com/ltilearning/SampleProjectDevOps/_apis/build/status/ltilearning.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/ltilearning/SampleProjectDevOps/_build/latest?definitionId=1&branchName=master)
-# Sample ASP.NET Core application for Azure Pipelines docs
 
+# Sample ASP.NET Core application for Azure Pipelines docs
+[![Build Status](https://dev.azure.com/ltilearning/SampleProjectDevOps/_apis/build/status/ltilearning.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/ltilearning/SampleProjectDevOps/_build/latest?definitionId=1&branchName=master)
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
 | Example | Build status |
